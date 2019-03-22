@@ -1,0 +1,70 @@
+    h1{   
+    text-align:center;
+    color:white;
+    }
+    
+    p{
+    font-size:50px;
+    color:white;
+    text-align:center;
+    }
+    
+    button{
+    font-weight:bold;
+    text-align:center;
+    padding:10px;
+    width:200px;
+    }
+    .secret{
+        width:100px;
+        height:100px;
+        display:none;
+    }
+    .shh{
+        width:100px;
+        height:100px;
+    }
+    body{
+    background-color:black;
+    }
+       
+     #Spego{
+    display:flex;
+    width:100%;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+           }
+           
+    #Spego2{
+    display:flex;
+    width:100%;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+    }
+    
+    #spego3{
+    display:flex;
+    width:100%;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+    }
+           
+    img{
+    width:600px;
+    height:600px;
+    }
+    .chapo{
+     display:none;
+      }
+    .mode{
+     display:none;
+          }
+    .gru{
+     display:none;
+    }
+    .dicko{
+     display:none;
+    }
